@@ -1,0 +1,7 @@
+*pyc
+*~
+venv
+env
+dist
+build
+*egg*
